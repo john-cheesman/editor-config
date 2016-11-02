@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "input",
+    "editor.fontSize": 12,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wrappingColumn": 0,
+    "editor.wrappingIndent": "indent",
+    "editor.renderWhitespace": "boundary",
+    "editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": false,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true
+}
