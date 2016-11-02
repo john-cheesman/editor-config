@@ -1,3 +1,6 @@
-# Vim Run Commands
+# Editor Configuration
 
-My personal `.vimrc` file. To install plugins, first install [Vim Plug](https://github.com/junegunn/vim-plug/) then open Vim and run `:PlugInstall`.
+Editor configuration files and run commands.
+
+## Vim
+To install Vim plugins, first install [Vim Plug](https://github.com/junegunn/vim-plug/) then open Vim and run `:PlugInstall`.
