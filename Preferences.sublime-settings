@@ -9,7 +9,7 @@
     "dictionary": "Packages/Language - English/en_GB.dic",
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
-    "font_face": "Input",
+    "font_face": "InputMono",
     "font_size": 9,
     "ignored_packages":
     [

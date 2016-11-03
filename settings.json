@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "input",
+    "editor.fontFamily": "Input Mono",
     "editor.fontSize": 12,
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
