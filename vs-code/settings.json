@@ -9,8 +9,9 @@
     "editor.renderWhitespace": "boundary",
     "editor.fontLigatures": true,
     "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
     "files.trimTrailingWhitespace": true,
     "git.autofetch": false,
-    "html.format.endWithNewline": true,
     "html.format.indentInnerHtml": true
 }
+
